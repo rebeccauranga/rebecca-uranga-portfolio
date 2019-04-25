@@ -2933,7 +2933,8 @@ input, select, textarea {
 				min-height: 18rem;
 				object-fit: cover;
 				object-position: center;
-				width: 100%;
+				margin-left: -50px;
+				/* width: 100%; */
 			}
 
 			.gallery a.landscape {
